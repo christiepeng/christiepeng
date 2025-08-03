@@ -1,4 +1,4 @@
 ## Hello There 👋
 
-🌱 I’m currently learning computer science @ Georgia Tech
-👯 Phone (770-359-9521) | Email (christie.peng@gmail.com)
+- 🌱 Computer Science @ Georgia Tech | Prev. @Home Depot, Walmart Global Tech
+- 👯 Phone (770-359-9521) | Email (christie.peng@gmail.com)
